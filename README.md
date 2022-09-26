@@ -10,5 +10,8 @@ This webpage has information about all the **nine** increation.
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="60" height="60"/>&nbsp;
 
+- Image Credits: Sachin Singhal
+- Disclaimer: This project was made with no intention to hurt any feelings of an individual.
+
 
 
