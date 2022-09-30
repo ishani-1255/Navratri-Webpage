@@ -15,7 +15,7 @@ This webpage has information about all the **nine** increation.
 
 ## Thanks to all contributors ❤
 
- <a href = "https://github.com/AnshSinghSonkhia/Mitra-A-Myntra-Website-Clone/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=AnshSinghSonkhia/Mitra-A-Myntra-Website-Clone"/>
+ <a href = "https://github.com/ishani-1255/Navratri-Webpage/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=ishani-1255/Navratri-Webpage"/>
  </a>
 
