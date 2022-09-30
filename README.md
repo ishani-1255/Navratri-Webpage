@@ -13,5 +13,9 @@ This webpage has information about all the **nine** increation.
 - Image Credits: Sachin Singhal
 - Disclaimer: This project was made with no intention to hurt any feelings of an individual.
 
+## Thanks to all contributors ❤
 
+ <a href = "https://github.com/AnshSinghSonkhia/Mitra-A-Myntra-Website-Clone/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=AnshSinghSonkhia/Mitra-A-Myntra-Website-Clone"/>
+ </a>
 
