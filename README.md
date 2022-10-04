@@ -2,7 +2,7 @@
 Link of the Project: https://navratri-webpage.vercel.app/
 
 **Navratri** is a festival in which people joyously worship Goddess Durga. Indians celebrate this festival with a lot of joy and enthusiasm.It is celebrated for nine days, each day dedicated to the **nine incarnations** of the **Goddess Durga.**
-This webpage has information about all the **nine** increation.
+This webpage has information about all the **nine** incarnation,.
 
 - This project was made to practice slider feature. 
 
