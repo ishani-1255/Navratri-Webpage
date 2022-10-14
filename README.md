@@ -14,6 +14,10 @@ This webpage has information about all the **nine** incarnation,.
 - Image Credits: Sachin Singhal
 - Disclaimer: This project was made with no intention to hurt any feelings of an individual.
 
+#Screenshot
+<img src="https://raw.githubusercontent.com/ishani-1255/Navratri-Webpage/main/Screenshot%202022-10-04%20at%209.42.05%20PM.png".png" title="Header" alt="Header" width="1280" height=""/>&nbsp;
+
+
 ## Thanks to all contributors 
 
  <a href = "https://github.com/ishani-1255/Navratri-Webpage/graphs/contributors">
